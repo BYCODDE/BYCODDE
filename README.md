@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13ifdcE55SkP6RyJxlWtLxOmt85ZK-y54/view?usp=sharing](https://drive.google.com/file/d/13ifdcE55SkP6RyJxlWtLxOmt85ZK-y54/view?usp=sharing)
 -    my portfolio : https://portfolio-bycoddes-projects.vercel.app/
-- ⚡ Fun fact **I started coding in 2024 at a age of 20**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
