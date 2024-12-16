@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bycodde" alt="bycodde" /></a> </p>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" />
 
-- 🔭 I’m currently working at 
+- 🔭 I’m currently working at improving my knowledge in **React.js,Node.js,Next.js**
 
 - 🌱 I’m currently learning **React.js,Node.js,Next.js**
 
